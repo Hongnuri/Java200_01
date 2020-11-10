@@ -13,7 +13,7 @@ import java.util.Scanner;
 28 29 30 31 32 33
 */
 
-public class _E04EnumScope {
+public class E04EnumScope {
 
 	public static void main(String[] args) {
 		

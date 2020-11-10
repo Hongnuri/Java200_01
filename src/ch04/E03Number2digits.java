@@ -16,7 +16,7 @@ import java.util.Scanner;
 정답입니다.
 */
 
-class _E03Number2digits{
+class E03Number2digits{
 	public static void main(String[] args) {
 
 		

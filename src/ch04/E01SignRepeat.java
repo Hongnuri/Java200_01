@@ -34,7 +34,7 @@ class E05Sign {
 다시 한 번 ? 1-Yes / 0-No : 0
 */
 
-class _E01SignRepeat{
+class E01SignRepeat{
 	public static void main(String[] args) {
 	
 		

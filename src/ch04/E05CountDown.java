@@ -19,7 +19,7 @@ import java.util.Scanner;
 x의 값이 -1이 됐습니다.
 */
 
-class _E05CountDown{
+class E05CountDown{
 	public static void main(String[] args) {
 		
 		

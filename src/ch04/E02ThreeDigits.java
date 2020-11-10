@@ -13,7 +13,7 @@ import java.util.Scanner;
 입력한 값은 235 입니다.
 */
 
-class _E02ThreeDigits{
+class E02ThreeDigits{
 	public static void main(String[] args) {
 		
 		

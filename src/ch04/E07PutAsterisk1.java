@@ -14,7 +14,7 @@ import java.util.Scanner;
 */
 
 
-public class _E07PutAsterisk1 {
+public class E07PutAsterisk1 {
 	
 	public static void main(String[] args) {
 		
