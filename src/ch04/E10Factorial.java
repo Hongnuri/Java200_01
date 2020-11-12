@@ -10,7 +10,12 @@ import java.util.Scanner;
 1부터 5까지의 곱은 120 입니다. 
 */
 
-
+public class E10Factorial {
+	public static void main(String[] args) {
+		
+	
+	}
+}	
 
 
 

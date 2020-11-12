@@ -10,6 +10,17 @@ import java.util.Scanner;
 입력한 숫자는 4자리 입니다.
 */
 
+public class E09DigitNo {
+
+	public static void main(String[] args) {
+	
+	}		
+}
+
+
+
+
+
 
 
 
